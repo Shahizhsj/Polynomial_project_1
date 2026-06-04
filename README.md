@@ -343,5 +343,3 @@ sequenceDiagram
 - If authentication fails, ensure login credentials are registered and the JWT token is included in requests.
 
 ---
-
-If you want, I can also add a short “How to test” section with example requests for the API. 
