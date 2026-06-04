@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+.pytest_cache/
+__pycache__/
+.git/
+.gitignore
+Dockerfile
+data.db
+uploads/
+qdrant_data/
